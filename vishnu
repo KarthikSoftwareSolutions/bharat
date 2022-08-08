@@ -1,3 +1,5 @@
 hello everyone
 Welcome to git
 git commands are very important for Devops Engineer
+git pull and git fetch commands are similar
+They are used to move files from Remote repo to Local Repo
